@@ -1,0 +1,4 @@
+/Users/zahraalkabbaz/desktop/Modules/comp1921/cw2/build/CMakeFiles/rebuild_cache.dir
+/Users/zahraalkabbaz/desktop/Modules/comp1921/cw2/build/CMakeFiles/edit_cache.dir
+/Users/zahraalkabbaz/desktop/Modules/comp1921/cw2/build/CMakeFiles/test.dir
+/Users/zahraalkabbaz/desktop/Modules/comp1921/cw2/build/CMakeFiles/library.dir
